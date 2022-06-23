@@ -29,6 +29,7 @@ The reason that drives me to study and acquire new skills is my passion for prog
 
 ### Mobile Dev
 
+[![](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
 [![](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](#)
 [![](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)](#)
 
