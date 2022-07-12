@@ -6,7 +6,7 @@ I've developed software applications for a ton of different platforms with diffe
 
 The reason that drives me to study and acquire new skills is my passion for programming and computer science, which I keep fed every day and I like to share with others.
 
-### <center> <a href="portfolio.md"> 🖥️ My Portfolio 🖥️ </a></center>
+### 🖥️ [My Portfolio](./portfolio.md) 🖥️
 
 ## My Development Tech Stack 💻
 
