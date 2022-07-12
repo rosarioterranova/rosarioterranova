@@ -6,9 +6,12 @@ I've developed software applications for a ton of different platforms with diffe
 
 The reason that drives me to study and acquire new skills is my passion for programming and computer science, which I keep fed every day and I like to share with others.
 
-## Tech Stack 💻
+## 🖥️ [My Portfolio](./portfolio.md) 🖥️
+
+## My Development Tech Stack 💻
 
 ### Web Dev Front-End
+
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](#)
@@ -21,6 +24,7 @@ The reason that drives me to study and acquire new skills is my passion for prog
 [![](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](#)
 
 ### Web Dev Back-end
+
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#)
 [![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
@@ -34,11 +38,11 @@ The reason that drives me to study and acquire new skills is my passion for prog
 [![](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)](#)
 
 ### 3D Dev
+
 [![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](#)
 [![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
 [![](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](#)
 [![](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](#)
-
 
 ## Contacts
 
